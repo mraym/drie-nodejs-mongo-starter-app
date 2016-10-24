@@ -1,0 +1,17 @@
+{
+  "name": "drie-bookmarker-nodejs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mongoose": "~4.6.4",
+    "express": "~4.14.0",
+    "json": "~9.0.4",
+    "body-parser": "~1.15.2"
+  }
+}
